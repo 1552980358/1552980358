@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![1552980358's github stats](https://github-readme-stats.vercel.app/api?username=1552980358)](https://github.com/1552980358)
 
 <!--
