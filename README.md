@@ -10,11 +10,20 @@
   - G.Skill TridentZ Neo 8GB 3600MHz CL16-19-19-39 * 2
   - SAPPhIRE NiTRO+ RX 5700 XT Special Edition
   - Kioxia Exceria Plus NVMe RD10 1TB 
+  - NZXT C750 Modular Gold 750 Watts 
   - Philips 242M8
   - Logitech G Pro Wireless
   - Ducky One 2 RGB TKL
   
   ![](Desktop.jpg)
+
+- NAS
+  - Intel Xeon E3 1235
+  - Duzheng ITX H61 Pro
+  - Jonsbo HP-400 
+  - Team Group DDR3 4GB 1600MHz * 2
+  - Colorful 128GB NVME SSD
+  - Enhance ENP7025b Bronze 250 Watts
 
 - Microcomputer
   - Raspberry Pi 4 Model B
