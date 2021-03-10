@@ -24,6 +24,7 @@
   ![](Microcomputer.jpg)
 
 - MCU
+  - Raspberry Pi Pico
   - ESP-8266
     - NodeMCU
     - ESP-01S
