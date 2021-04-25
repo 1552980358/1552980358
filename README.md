@@ -8,7 +8,8 @@
   - MSI X570 Ace
   - MSI MAG CoreLiquid 360R
   - G.Skill TridentZ Neo 8GB 3600MHz CL16-19-19-39 * 2
-  - SAPPhIRE NiTRO+ RX 5700 XT Special Edition
+  - ~SAPPhIRE NiTRO+ RX 5700 XT Special Edition~ (Sold)
+  - MSI Radeon RX 6700 XT GAMING X
   - Kioxia Exceria Plus NVMe RD10 1TB 
   - NZXT C750 Modular Gold 750 Watts 
   - Philips 242M8
