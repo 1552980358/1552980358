@@ -1,4 +1,6 @@
-[![1552980358's github stats](https://github-readme-stats.vercel.app/api?username=1552980358)](https://github.com/1552980358)
+[![1552980358's github stats](https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true&theme=nightowl)](https://github.com/1552980358)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1552980358&layout=compact)](https://github.com/1552980358)
 
 - Smart Phone
   - Xiaomi Mi 10 Ultra
