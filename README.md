@@ -1,80 +1,51 @@
 [![1552980358's github stats](https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true&theme=nightowl)](https://github.com/1552980358)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1552980358&layout=compact)](https://github.com/1552980358)
-
-- Smart Phone
-  - Xiaomi Mi 10 Ultra
-
-- PC
-  - AMD Ryzen 7 3700X
-  - MSI X570 Ace
-  - MSI MAG CoreLiquid 360R
-  - G.Skill TridentZ Neo 8GB 3600MHz CL16-19-19-39 * 2
-  - ~SAPPhIRE NiTRO+ RX 5700 XT Special Edition~ (Sold)
-  - MSI Radeon RX 6700 XT GAMING X
-  - Kioxia Exceria Plus NVMe RD10 1TB 
-  - NZXT C750 Modular Gold 750 Watts 
-  - Philips 242M8
-  - Logitech G Pro Wireless
-  - Ducky One 2 RGB TKL
-  
-  ![](Desktop.jpg)
-
-- NAS
-  - Intel Xeon E3 1235
-  - Duzheng ITX H61 Pro
-  - Jonsbo HP-400 
-  - Team Group DDR3 4GB 1600MHz * 2
-  - Colorful 128GB NVME SSD
-  - Enhance ENP7025b Bronze 250 Watts
-
-- Microcomputer
-  - Raspberry Pi 4 Model B
-  - LiCHEE Pi Nano
-  - LiCHEE Pi Zero
-  
-  ![](Microcomputer.jpg)
-
-- MCU
-  - Raspberry Pi Pico
-  - ESP-8266
-    - NodeMCU
-    - ESP-01S
-	- ESP-01M
-	- ESP-07
-	- ESP-12S
-  - ESP-8285
-    - ESP-M1
-	- ESP-M2
-	- ESP-M3
-	- ESP-M4
-  - ESP-32
-    - WROVER
-    - WROVER-I
-	- WROVER-B
-	- WROVER-IB
-	- WROOM-32D
-	- WROOM-32U
-  - ESP-32S
-	- NodeMCU 
-  - ESP-32S2
-    - NodeMCU
-  - ATmega 328P UNO
-  - ATmega 328P Nano
-
-  ![](MCU.jpg)
- 
-<!--
-**1552980358/1552980358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Kotlin
+class MySelf {
+    init {
+        val basicInfo = {
+            val id = "1552980358"
+            val location = "Hong Kong Special Administrative Region, The People's Republic of China"
+            val languages = listOf("zh-CN", "en-GB")
+            val career = {
+                val main = {
+                    val name = "Student"
+                    val school =  {
+                        val type = "University"
+                        val schoolName = "The Hong Kong Polytechnic University"
+                        val subject = "Electronic and Information Engineering"
+                        val department = "Department of Electronic and Information Engineering"
+                    }
+                }
+                val partTime = {
+                    val name = "Open-sourced Developer"
+                    val platform = "Google Android"
+                    val languages = listOf("Kotlin", "XML")
+                }
+                
+            }
+            val emails = with(arrayOf("1552980358#qq.com", "qq1552980358#gmail.com")) {
+                for ((i, j) in withIndex()) {
+                    if (j.contains('#')) {
+                        this[i] = j.replace('#', '@')
+                    }
+                }
+                toList()
+            }
+            
+        }
+        
+        val devInfo = {
+            val environment = listOf("Windows 10 x64", "Arch Linux x64", "Ubuntu LTS x64")
+            val tools = listOf(
+                "Intellij IDEA", "CLion", "Rider","PyCharm",
+                "Arduino",
+                "Microchip Studio",
+                "Visual Studio"
+            )
+            val languages = listOf("Kotlin", "C", "C++", "Java", "Pascal", "C#", "Python")
+            val projects = listOf("MusicPlayer")
+        }
+    }
+}
+```
