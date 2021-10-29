@@ -1,4 +1,6 @@
 [![1552980358's github stats](https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true)](https://github.com/1552980358)
+[![1552980358's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1552980358&layout=compact&langs_count=10)](https://github.com/1552980358)
+[![1552980358's coding time](https://github-readme-stats.vercel.app/api/wakatime?username=1552980358)](https://github.com/1552980358)
 
 ```Kotlin
 class MySelf {
