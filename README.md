@@ -39,3 +39,8 @@
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=FFF)](https://vuejs.org/)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=FFF)
 ![CMake](https://img.shields.io/badge/CMake-BE212A?style=flat-square&logo=cmake&logoColor=FFF)
+
+### PGP Fingerprint
+```
+71D4 8EC4 D0F2 6342 B277  0CF5 9DA2 9550 44E1 402C
+```
