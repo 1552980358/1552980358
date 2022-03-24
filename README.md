@@ -22,16 +22,18 @@
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=FFF)](https://www.android.com/android-12/)
 
 ### IDE
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFF)]()
-[![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20Idea-8241DD?style=flat-square&logo=intellijidea&logoColor=FFF)]()
-[![CLion](https://img.shields.io/badge/CLion-00DD7C?style=flat-square&logo=clion&logoColor=FFF)]()
-[![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=flat-square&logo=webstorm&logoColor=FFF)]()
-[![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=FFF)]()
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFF)](https://developer.android.com/studio)
+[![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20Idea-8241DD?style=flat-square&logo=intellijidea&logoColor=FFF)](https://www.jetbrains.com/idea/)
+[![CLion](https://img.shields.io/badge/CLion-00DD7C?style=flat-square&logo=clion&logoColor=FFF)](https://www.jetbrains.com/clion/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=flat-square&logo=webstorm&logoColor=FFF)](https://www.jetbrains.com/webstorm/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=FFF)](https://www.jetbrains.com/pycharm/)
+[![Arduino](https://img.shields.io/badge/Arduino-008084?style=flat-square&logo=arduino&logoColor=FFF)](https://www.arduino.cc/)
 
 ### Language
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFF)]()
-[![C](https://img.shields.io/badge/C-1476B4?style=flat-square&logo=c&logoColor=FFF)]()
-[![C++](https://img.shields.io/badge/C++-004283?style=flat-square&logo=cplusplus&logoColor=FFF)]()
-[![Java](https://img.shields.io/badge/Java-E11F22?style=flat-square&logo=java&logoColor=FFF)]()
-[![PyCharm3](https://img.shields.io/badge/Python3-3778A0?style=flat-square&logo=python&logoColor=FFF)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFF)](https://kotlinlang.org/)
+[![C](https://img.shields.io/badge/C-1476B4?style=flat-square&logo=c&logoColor=FFF)](https://clang.llvm.org/)
+[![C++](https://img.shields.io/badge/C++-004283?style=flat-square&logo=cplusplus&logoColor=FFF)](https://clang.llvm.org/)
+[![Java](https://img.shields.io/badge/Java-E11F22?style=flat-square&logo=java&logoColor=FFF)](https://java.com/)
+[![PyCharm3](https://img.shields.io/badge/Python3-3778A0?style=flat-square&logo=python&logoColor=FFF)](https://www.python.org/)
+[![Vue.js](https://img.shields.io/badge/Jue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=FFF)](https://vuejs.org/)
 
