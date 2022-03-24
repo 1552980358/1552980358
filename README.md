@@ -36,4 +36,6 @@
 [![Java](https://img.shields.io/badge/Java-E11F22?style=flat-square&logo=java&logoColor=FFF)](https://java.com/)
 [![PyCharm3](https://img.shields.io/badge/Python3-3778A0?style=flat-square&logo=python&logoColor=FFF)](https://www.python.org/)
 [![Vue.js](https://img.shields.io/badge/Jue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=FFF)](https://vuejs.org/)
-
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=FFF)](https://vuejs.org/)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=FFF)
+![CMake](https://img.shields.io/badge/CMake-BE212A?style=flat-square&logo=cmake&logoColor=FFF)
