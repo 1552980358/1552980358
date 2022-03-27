@@ -44,3 +44,6 @@
 ```
 71D4 8EC4 D0F2 6342 B277  0CF5 9DA2 9550 44E1 402C
 ```
+
+### Buy me a can of Cola~
+<noscript><a href="https://liberapay.com/1552980358/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
