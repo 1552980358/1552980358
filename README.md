@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true">
-<img align="right" src="https://genshin-card.getloli.com/53/5748053.png">
+<img align="right" src="https://genshin-card.getloli.com/54/5748053.png">
 
 ## Hi~
 
