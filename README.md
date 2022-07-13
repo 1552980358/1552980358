@@ -18,7 +18,7 @@
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0096E4?style=flat-square&logo=windows&logoColor=FFF)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=FFF)](https://www.microsoft.com/en-us/windows/windows-11)
 [![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=FFF)](https://archlinux.org/)
-[![Ubuntu 20.04.2 LTS](https://img.shields.io/badge/Ubuntu%2020.04.2%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=FFF)](https://ubuntu.com/)
+[![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu%2020.04.2%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=FFF)](https://ubuntu.com/)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=FFF)](https://www.android.com/android-12/)
 
 ### IDE
