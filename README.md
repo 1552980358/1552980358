@@ -12,7 +12,6 @@
 ![AMD Ryzen R7 3700X](https://img.shields.io/badge/AMD%20Ryzen%20R7%203700X-DD0031?style=flat-square&logo=amd&logoColor=FFF)
 ![AMD Radeon RX 6700XT](https://img.shields.io/badge/AMD%20Radeon%20RX%206700XT-DD0031?style=flat-square&logo=amd&logoColor=FFF)
 ![MSI X570 Ace](https://img.shields.io/badge/MSI%20X570%20Ace-E6000A?style=flat-square&logo=msi&logoColor=FFF)
-![MSI CoreLiquid 360R](https://img.shields.io/badge/MSI%20CoreLiquid%20360R-E6000A?style=flat-square&logo=msi&logoColor=FFF)
 
 ### Operating System & Environment
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0096E4?style=flat-square&logo=windows&logoColor=FFF)
