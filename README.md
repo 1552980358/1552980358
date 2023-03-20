@@ -1,5 +1,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true">
-<img align="right" src="https://genshin-card.getloli.com/54/5748053.png">
 
 ## Hi~
 
@@ -38,11 +37,6 @@
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=FFF)](https://vuejs.org/)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=FFF)
 ![CMake](https://img.shields.io/badge/CMake-BE212A?style=flat-square&logo=cmake&logoColor=FFF)
-
-### PGP Fingerprint
-```
-71D4 8EC4 D0F2 6342 B277  0CF5 9DA2 9550 44E1 402C
-```
 
 ### Buy me a can of Cola~
 <noscript><a href="https://liberapay.com/1552980358/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
