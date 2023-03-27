@@ -38,5 +38,5 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=FFF)
 ![CMake](https://img.shields.io/badge/CMake-BE212A?style=flat-square&logo=cmake&logoColor=FFF)
 
-### Buy me a can of Cola~
+### Buy me a can of Coke~
 <noscript><a href="https://liberapay.com/1552980358/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
