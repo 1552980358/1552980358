@@ -29,7 +29,7 @@
 
 ### Language
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFF)](https://kotlinlang.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FFF)](https://kotlinlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FFF)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/C-1476B4?style=flat-square&logo=c&logoColor=FFF)](https://clang.llvm.org/)
 [![C++](https://img.shields.io/badge/C++-004283?style=flat-square&logo=cplusplus&logoColor=FFF)](https://clang.llvm.org/)
 [![Java](https://img.shields.io/badge/Java-E11F22?style=flat-square&logo=java&logoColor=FFF)](https://java.com/)
