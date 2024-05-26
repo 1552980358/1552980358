@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true">
 
-## Hi~
+### Hi~ This is KSChan from Hong Kong SAR, China
 
 ### Mobile Devices
 [![Xiaomi Mi12 Pro](https://img.shields.io/badge/Mi%2012%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/hk/product/xiaomi-12-pro/)
