@@ -1,15 +1,17 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true">
-
 ### Hi~ This is KSChan from Hong Kong SAR, China
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true">
 
 ### Mobile Devices
 [![Samsung Galaxy S24+](https://img.shields.io/badge/Galaxy%20S24+-1428A0?style=flat-square&logo=samsung&logoColor=FFF)](https://www.mi.com/mi10ultra)
 ![ROG Flow 13](https://img.shields.io/badge/Flow%20%2013-FF0029?style=flat-square&logo=republicofgamers&logoColor=FFF)
 
-##### - Previous Mobile Devices
-[![Xiaomi Mi12 Pro](https://img.shields.io/badge/Mi%2012%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/hk/product/xiaomi-12-pro/)
-[![Xiaomi Mi10 Ultra](https://img.shields.io/badge/Mi%2010%20Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/mi10ultra)
-[![Xiaomi Mi9](https://img.shields.io/badge/Mi%209-FF6900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/mi10ultra)
+- Previous Mobile Devices
+
+  [![Xiaomi Mi12 Pro](https://img.shields.io/badge/Mi%2012%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/hk/product/xiaomi-12-pro/)
+  [![Xiaomi Mi10 Ultra](https://img.shields.io/badge/Mi%2010%20Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/mi10ultra)
+  [![Xiaomi Mi9](https://img.shields.io/badge/Mi%209-FF6900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/mi10ultra)
+  
 
 ### Working Desktop
 ![AMD Ryzen R7 3700X](https://img.shields.io/badge/AMD%20Ryzen%20R7%203700X-ED1C24?style=flat-square&logo=amd&logoColor=FFF)
@@ -21,7 +23,9 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=FFF)](https://www.microsoft.com/en-us/windows/windows-11)
 [![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=FFF)](https://archlinux.org/)
 [![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu%2022.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=FFF)](https://ubuntu.com/)
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=FFF)](https://www.android.com/android-13/)
+[![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=FFF)](https://www.android.com/android-13/)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1552980358&layout=donut">
 
 ### IDE
 [![RustRover](https://img.shields.io/badge/RustRover-000?style=flat-square&logo=jetbrains&logoColor=FFF)](https://www.jetbrains.com/rust/)
