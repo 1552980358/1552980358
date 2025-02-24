@@ -33,6 +33,7 @@
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20Idea-000?style=flat-square&logo=intellijidea&logoColor=FFF)](https://www.jetbrains.com/idea/)
 [![CLion](https://img.shields.io/badge/CLion-000?style=flat-square&logo=clion&logoColor=FFF)](https://www.jetbrains.com/clion/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?style=flat-square&logo=webstorm&logoColor=FFF)](https://www.jetbrains.com/webstorm/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=FFF)](https://www.jetbrains.com/pycharm/)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=FFF)](https://www.arduino.cc/)
 
 ### Language & Tool & Framework
@@ -41,6 +42,7 @@
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000)](https://clang.llvm.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFF)](https://clang.llvm.org/)
 [![Java](https://img.shields.io/badge/Java-E11F22?style=flat-square&logo=java&logoColor=FFF)](https://java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFF)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFF)](https://vuejs.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=FFF)](https://gradle.org/)
