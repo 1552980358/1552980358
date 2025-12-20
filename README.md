@@ -12,7 +12,7 @@
 [![Xiaomi Mi9](https://img.shields.io/badge/Mi%209-FF6900?style=flat-square&logo=xiaomi&logoColor=FFF)](https://www.mi.com/mi10ultra)
 
 ### Working Desktop
-![AMD Ryzen R7 9700X](https://img.shields.io/badge/AMD%20Ryzen%20R7%203700X-ED1C24?style=flat-square&logo=amd&logoColor=FFF)
+![AMD Ryzen R7 9700X](https://img.shields.io/badge/AMD%20Ryzen%20R7%209700X-ED1C24?style=flat-square&logo=amd&logoColor=FFF)
 ![Nvidia Geforce RTX 5070 Ti](https://img.shields.io/badge/Nvidia%20Geforce%20RTX%205070%20Ti-76B900?style=flat-square&logo=nvidia&logoColor=FFF)
 ![ROG STRIX B850-G GAMING WIFI S](https://img.shields.io/badge/ROG%20STRIX%20B850G%20GAMING%20WIFI%20S-FF0029?style=flat-square&logo=republicofgamers&logoColor=FFF)
 
