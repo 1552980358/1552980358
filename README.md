@@ -1,6 +1,6 @@
 ### Hi~ This is KSChan from Hong Kong SAR, China
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=1552980358&show_icons=true">
+<img align="right" src="https://githubcard.com/1552980358.svg?d=ye1YS9Tm">
 
 ### Mobile Devices
 [![Samsung Galaxy S24+](https://img.shields.io/badge/Galaxy%20S24+-1428A0?style=flat-square&logo=samsung&logoColor=FFF)](https://www.mi.com/mi10ultra)
@@ -28,7 +28,7 @@
 [![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu%2024.04.1%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=FFF)](https://ubuntu.com/)
 [![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=FFF)](https://www.android.com/android-13/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1552980358&layout=donut">
+<img align="right" src="https://githubcard.com/1552980358.svg?d=cF9w-N8_">
 
 ### IDE
 [![RustRover](https://img.shields.io/badge/RustRover-000?style=flat-square&logo=jetbrains&logoColor=FFF)](https://www.jetbrains.com/rust/)
